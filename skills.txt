@@ -1,0 +1,7 @@
+Skills to be learned on the course:
+1) Basic theory
+2) What is client-server architecture
+3) HTTP server request methods
+4) What is JSON, XML
+5) Mobile testing
+6) Features of iOS, Android
