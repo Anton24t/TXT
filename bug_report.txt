@@ -1,0 +1,12 @@
+ID: 1
+Severity: Trivial
+Priority: Low
+Environment: MacBook Pro M1 16/512 MacOS Ventura
+Title: Bug 1
+Precondition: example
+Steps:
+1) example
+2) example
+3) example
+Actual result: example
+Expected result: example
