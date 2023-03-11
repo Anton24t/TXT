@@ -2,7 +2,7 @@ ID: 1
 Severity: Trivial
 Priority: Low
 Environment: MacBook Pro M1 16/512 MacOS Ventura
-Title: Bug 1
+Title: Bug #1
 Precondition: example
 Steps:
 1) example
