@@ -1,6 +1,0 @@
-My name: Anton
-My surname: Tarasik
-My middle name: Sergeevich
-My age: 26
-Pets: 1
-Desired salary: 10 000$
